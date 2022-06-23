@@ -1,4 +1,5 @@
 # game-stone-scissors-paper-
+
 import pygame
 import time
 import random
@@ -116,6 +117,4 @@ def gameLoop():
  
     pygame.quit()
     quit()
- 
- 
 gameLoop() 
